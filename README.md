@@ -1,5 +1,10 @@
 # MyTodo
 
+This project was started for learn Angular.
+Follow description from Angular CLI below.
+
+---
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
 
 ## Development server
